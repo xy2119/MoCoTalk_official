@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# models and external code (see README)
+pretrained_weights/
+checkpoints/
+spectre/
+mocotalk/third_party/decalib/data/
+mocotalk/third_party/facematting/*.pth
+
+# data and outputs
+TalkingHeadVideo/
+outputs/
+results/
+resources/
+vocals_offline/
+tmp/
+demo_videos/
+
+*.mp4
+*.wav
+*.pt
+*.pth
+*.onnx
