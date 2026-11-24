@@ -7,6 +7,9 @@
 [Xinyan Ye](https://github.com/xy2119), Jiankang Deng, Abbas Edalat
 
 Imperial College London
+<p align="center">
+  <i> International Joint Conference on Biometrics (IJCB '26) · Rome, Italy</i>
+</p>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2605.08050-b31b1b.svg)](https://arxiv.org/abs/2605.08050)
 [![Paper](https://img.shields.io/badge/Paper-HTML-blue.svg)](https://arxiv.org/html/2605.08050v1)
