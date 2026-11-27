@@ -8,7 +8,7 @@
 
 Imperial College London
 <p align="center">
-  <i> International Joint Conference on Biometrics (IJCB '26) · Rome, Italy</i>
+  <i> International Joint Conference on Biometrics (IJCB '26) </i>
 </p>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2605.08050-b31b1b.svg)](https://arxiv.org/abs/2605.08050)
